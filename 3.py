@@ -1,20 +1,30 @@
-def print_hello():
-    print("hello")
-
-output = print_hello()
-print(output)
+#------------------------------------ funcation that calculates average of 3 numbers 
 
 
+def calc_avg(a , b , c ):
+    avg = (a + b + c) / 3
+    print(avg)
+
+calc_avg(4,7,2)
 
 
-#----------------funcation that prints hello only 
+# #---------------------------------- THE funcation that donesnot reutrn anythign its output will be none 
+# def print_hello():
+#     print("hello")
+
+# output = print_hello()
+# print(output)
+
+
+
+#--------------------------------------funcation that prints hello only 
 # def print_hello():
 #     print("hello")
 
 # print_hello()
 # print_hello()
 
-#--------------------------for my practice 
+#------------------------------------------for my practice 
 
 # def calc_sum(a , b):
 #     sum = a + b 
