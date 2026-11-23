@@ -1,17 +1,20 @@
-#funcation that prints hello only 
 def print_hello():
     print("hello")
 
-print_hello()
+output = print_hello()
+print(output)
 
 
 
 
+#----------------funcation that prints hello only 
+# def print_hello():
+#     print("hello")
 
+# print_hello()
+# print_hello()
 
-
-
-#for my practice 
+#--------------------------for my practice 
 
 # def calc_sum(a , b):
 #     sum = a + b 
