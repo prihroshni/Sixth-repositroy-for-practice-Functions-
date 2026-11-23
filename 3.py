@@ -1,8 +1,17 @@
 #for my practice 
 
 
-def calc_sum(a , b):
-    sum = a + b 
-    print(sum)
+# def calc_sum(a , b):
+#     sum = a + b 
+#     print(sum)
+#     return sum 
 
-calc_sum(2,3)
+# calc_sum(2,3)
+
+
+
+def calc_sum(a, b):
+    return a + b 
+
+sum = calc_sum(3,5)
+print(sum)
