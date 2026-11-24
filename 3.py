@@ -1,11 +1,11 @@
 #------------------------------------ funcation that calculates average of 3 numbers 
 
 
-def calc_avg(a , b , c ):
-    avg = (a + b + c) / 3
-    print(avg)
+# def calc_avg(a , b , c ):
+#     avg = (a + b + c) / 3
+#     print(avg)
 
-calc_avg(4,7,2)
+# calc_avg(4,7,2)
 
 
 # #---------------------------------- THE funcation that donesnot reutrn anythign its output will be none 
