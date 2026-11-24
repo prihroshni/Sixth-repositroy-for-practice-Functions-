@@ -1,6 +1,19 @@
+def calc_heloo():
+    print()
+
+
+output = calc_heloo()
+print(output)
+
+
+
+
+
+
+
+
+
 #------------------------------------ funcation that calculates average of 3 numbers 
-
-
 # def calc_avg(a , b , c ):
 #     avg = (a + b + c) / 3
 #     print(avg)
