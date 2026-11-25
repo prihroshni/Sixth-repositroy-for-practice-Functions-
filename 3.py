@@ -1,16 +1,9 @@
+#_____________________________________ 24/11/2026
 def calc_heloo():
-    print()
+    print("hello")
 
 
-output = calc_heloo()
-print(output)
-
-
-
-
-
-
-
+calc_heloo()
 
 
 #------------------------------------ funcation that calculates average of 3 numbers 
