@@ -1,10 +1,32 @@
+print("roshni" , end = " ")
+print("prih")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #_____________________________________ 24/11/2026
-def calc_heloo():
-    print("hello")
+# def calc_heloo():
+#     print("hello")
 
 
-calc_heloo()
-
+# calc_heloo()
 
 #------------------------------------ funcation that calculates average of 3 numbers 
 # def calc_avg(a , b , c ):
