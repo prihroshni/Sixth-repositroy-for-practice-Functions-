@@ -1,27 +1,35 @@
-print("roshni" , end = " ")
-print("prih")
+#added values in default parameters ________________________ > 
+def calc_prod(a = 2, b = 3):
+    prod = a * b
+    print(a * b)
+
+calc_prod()
+calc_prod(3,4)
+#outut = 6 , 12 
+
+
+# default paramters -------------------------------------- >
+
+# def calc_prod(a,b):
+#     prod = a * b
+#     print(a * b)
+
+# calc_prod()
+
+#output = calc_prod() missing 2 required positional arguments: 'a' and 'b' 
+
+
+#--------------------------------built in functions 
+# print("roshni" , end = " ")
+# print("prih")
+
+
+# #output = roshni prih
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#_____________________________________ 24/11/2026
+#______------------------_______________________________ 24/11/2026
 # def calc_heloo():
 #     print("hello")
 
