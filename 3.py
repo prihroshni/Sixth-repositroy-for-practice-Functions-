@@ -1,10 +1,27 @@
-#added values in default parameters ________________________ > 
-def calc_prod(a = 2, b = 3):
-    prod = a * b
-    print(a * b)
+#added 1 values in default parameters ________________________ > 
 
-calc_prod()
-calc_prod(3,4)
+# # ------------------its ok  
+# def calc_prod(a  , b=3):
+#     prod = a * b
+#     print(prod)
+
+# calc_prod(3)
+
+# #-------------- its not 
+# def calc_prod(a = 3 , b):
+#     prod = a + b
+#     print(prod)
+
+# calc_prod()
+
+
+#added values in default parameters ________________________ > 
+# def calc_prod(a = 2, b = 3):
+#     prod = a * b
+#     print(a * b)
+
+# calc_prod()
+# calc_prod(3,4)
 #outut = 6 , 12 
 
 
